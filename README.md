@@ -1,5 +1,7 @@
 # simpleloginandout
-This Flutter project demonstrates a simple authentication flow with login and sign-up screens, utilizing basic state management and navigation techniques. It includes:
+This Flutter project demonstrates a simple authentication flow with login and sign-up screens, utilizing basic state management and navigation techniques.
+
+# It includes:
 
 Login Screen: Allows users to enter their credentials (username and password) and navigate to the home screen upon successful authentication.
 Sign-Up Screen: Enables new users to register with a username, email, password, and confirmation of password, ensuring data validation before proceeding.
