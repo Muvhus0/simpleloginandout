@@ -3,8 +3,10 @@ This Flutter project demonstrates a simple authentication flow with login and si
 
 # It includes:
 
-Login Screen: Allows users to enter their credentials (username and password) and navigate to the home screen upon successful authentication.\n
-Sign-Up Screen: Enables new users to register with a username, email, password, and confirmation of password, ensuring data validation before proceeding.\n
+Login Screen: Allows users to enter their credentials (username and password) and navigate to the home screen upon successful authentication.
+
+Sign-Up Screen: Enables new users to register with a username, email, password, and confirmation of password, ensuring data validation before proceeding.
+
 Home Screen: Displays a personalized welcome message based on the logged-in user's username.
 
 # Key Features
