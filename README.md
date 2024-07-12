@@ -1,32 +1,19 @@
 # simpleloginandout
-This Flutter project demonstrates a simple authentication flow with login and sign-up screens, utilizing basic state management and navigation techniques.
 
-# It includes:
+A new Flutter project created with FlutLab - https://flutlab.io
 
-~Login Screen: Allows users to enter their credentials (username and password) and navigate to the home screen upon successful authentication.  
-~Sign-Up Screen: Enables new users to register with a username, email, password, and confirmation of password, ensuring data validation before proceeding.  
-~Home Screen: Displays a personalized welcome message based on the logged-in user's username.
+## Getting Started
 
-# Key Features
+A few resources to get you started if this is your first Flutter project:
 
-~Stateful Widgets: Implements stateful widgets for managing user input and state changes.  
-~Navigation: Utilizes Flutter's navigation system to move between screens and pass data (e.g., username) between them.  
-~Validation: Implements basic form validation for ensuring data integrity and user input correctness.  
-~Material Design: Adheres to Material Design principles for a clean and intuitive user interface.  
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
 
-# Technologies Used
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-~Flutter: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.  
-~Dart: The programming language used by Flutter for building applications.  
+## Getting Started: FlutLab - Flutter Online IDE
 
-# Getting Started
-
-To run this project locally, ensure you have Flutter installed on your machine. Clone the repository and run flutter run in your terminal within the project directory.
-
-# Contributing
-
-Contributions are welcome! Feel free to fork this repository, create pull requests, and suggest improvements. Issues and feature requests can be submitted via GitHub's issue tracker.
-
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
